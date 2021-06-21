@@ -1,0 +1,37 @@
+{
+    "name": "vincent-van-theme",
+    "displayName": "Vincent Van Theme",
+    "description": "Vincent Van theme for vscode for all coders",
+    "version": "2.0.0",
+    "publisher": "AbhishekDhiman",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme"
+    },
+    "icon": "images/icon.png",
+    "keywords": [
+            "artist theme",
+            "dark theme",
+            "abhishek dhiman",
+            "vincent van theme",
+            "theme builder",
+            "vscode",
+            "c++"
+    ],
+
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vincent van theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vincent van theme-color-theme.json"
+            }
+        ]
+    }
+}
