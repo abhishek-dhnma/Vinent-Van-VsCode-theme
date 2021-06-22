@@ -2,8 +2,12 @@
 
 #### Vincent Willem van Gogh was a Dutch post-impressionist painter who posthumously became one of the most famous and influential figures in the history of Western art. In a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life.
 
-
-![DemoImage](/DemoImage.png)
+# Colour Pallete
+![colour palette](/Image1.jpeg)
+# Terminal
+![terminal](/image2.jpeg)
+# Commond Palette
+![commond palette](/image3.jpeg)
 
 
 # Installation
