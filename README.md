@@ -6,8 +6,8 @@
 ![colour palette](/Image1.jpeg)
 # Terminal
 ![terminal](/image2.jpeg)
-# Commond Palette
-![commond palette](/image3.jpeg)
+# Command Palette
+![command palette](/image3.jpeg)
 
 
 # Installation
