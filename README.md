@@ -11,7 +11,7 @@
 
 
 # ⚙️Installation
-- Open **Extenions** tab from side bar
+- Open **Extensions** tab from side bar
 - search for **Vincent Van Theme**
 - Click **Install**
 - select **Preferance: Color Theme**
