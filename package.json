@@ -10,13 +10,13 @@
     },
     "icon": "images/icon.png",
     "keywords": [
-            "artist theme",
-            "dark theme",
-            "abhishek dhiman",
-            "vincent van theme",
-            "theme builder",
-            "vscode",
-            "c++"
+        "artist theme",
+        "dark theme",
+        "abhishek dhiman",
+        "vincent van theme",
+        "theme builder",
+        "vscode",
+        "c++"
     ],
 
     "engines": {
@@ -26,12 +26,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Vincent van theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Vincent van theme-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Vincent van theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Vincent van theme-color-theme.json"
+        }]
     }
 }
