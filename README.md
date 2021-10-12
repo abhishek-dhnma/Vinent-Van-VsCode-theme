@@ -12,9 +12,9 @@
 
 # ⚙️Installation
 - Open **Extensions** tab from side bar
-- search for **Vincent Van Theme**
+- Search for **Vincent Van Theme**
 - Click **Install**
-- select **Preferance: Color Theme**
-- Enjoy 🙌 And also github out my [Github](https://github.com/abhishek-dhnma)
+- Select **Preferance: Color Theme**
+- Enjoy 🙌 And also checkout my [Github](https://github.com/abhishek-dhnma)
 
 Thanks for installing
